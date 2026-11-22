@@ -43,7 +43,7 @@ roi                ─────┘
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/kfahchai-netizen/DYDX-Sales-Report-Generator.git
+git clone https://github.com/kfahchai/DYDX-Sales-Report-Generator.git
 cd DYDX-Sales-Report-Generator
 pip install matplotlib
 python sign_menu.py
